@@ -1,3 +1,3 @@
 # Climate
 
-Obtain temperature in any place!!!
+Obtain temperature in any place and show it on your own app!!!
